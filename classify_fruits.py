@@ -25,3 +25,6 @@ model.fit(X, y)
 # צבע=אדום (0), גודל=4
 result = model.predict([[0, 4]])
 print("המודל חושב שזה:", result[0])
+
+
+# THATS RAN FILIBA
