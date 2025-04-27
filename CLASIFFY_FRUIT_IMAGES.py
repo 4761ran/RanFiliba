@@ -77,3 +77,6 @@ print(classification_report(y_true, y_pred, target_names=list(validation_generat
 # מטריצת בלבול
 cm = confusion_matrix(y_true, y_pred)
 print(cm)
+
+
+# THATS RAN FILIBA
